@@ -73,7 +73,7 @@ Start the Client
 ### Add or Remove users from group
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+
 ## Made By
 
 - [@luckysharda](https://github.com/luckysharda?tab=repositories)
